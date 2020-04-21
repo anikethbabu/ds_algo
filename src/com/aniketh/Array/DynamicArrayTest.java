@@ -1,5 +1,6 @@
-package com.aniketh;
+package com.aniketh.Array;
 
+import com.aniketh.Array.DynamicArray;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package com.aniketh;
+package com.aniketh.Array;
 
 public class DynamicArray {
     private String[] data;
